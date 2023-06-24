@@ -1,4 +1,4 @@
-### Hackathon 2 ###
+# Hackathon 2 #
 
 - [Description of The Game](#description-of-the-game)
 - [Features of The Game](#features-of-the-game)

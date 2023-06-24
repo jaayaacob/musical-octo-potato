@@ -14,6 +14,15 @@ Save and Load Game: The game provides the ability to save the progress and load 
 
 ### How to Play the Game
 
+1. User needs to determine how many people want to play the game.
+2. Every player has their own bases. For example, bases player 1 is at position 1 and bases for player 2 is at position 3.
+3. Every turn,
+   - the players must guess the correct answer for the question provided in the minigame.
+   - If correct, then the player can summon one creature and the game randomize the attack value of the creature.
+   - The player can move the creature to the other room or position in a straight line, but cannot move to the other rooms diagonally.
+   - If there are two creatures in the same room, they will fight for elimination by generating random numbers based on their attack value.
+4. In room 5, if the same creature stays in that room for 3 turns so the player of that creature is announced as a winner of the game.
+
 ### How Object-oriented Concepts were Used to Develop the Game
 
 ### How linked lists/stacks/queues play a role in the Game

@@ -1,6 +1,6 @@
 # Hackathon 2 #
 
-### Group 22 Members ###
+### Group 22 Members : ###
 
 1. AHMAD DZULHANIF BIN DZURAIDI  (16)
 2. IQMAL AIDID BIN ZAKARIA       (16)

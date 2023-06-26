@@ -68,7 +68,7 @@ With a variety of creatures, mini-game questions, and multiplayer dynamics, "Cre
    - Once creatures move outside of the base, its cannot recall to their own base
    - Each players only can move one creatures to the same room which mean two creatures of one player in one room is forbidden
 5. If there are two creatures from different players in the same room, they will fight for elimination by generating random numbers based on their attack value.
-6. When each creatures move to the position 5,
+6. When one of the creatures move to the position 5,
    - There is a counter to check the win condition of the game
    - The counter will start counting if the same creatures still staying in the room 5 on the second round after its moved to that room
    - Once counter reached 3, so the player of that creature is announced as a **winner of the game**

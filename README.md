@@ -1,5 +1,11 @@
 # Hackathon 2 #
 
+### Group 22 Members###
+
+1. AHMAD DZULHANIF BIN DZURAIDI  (16)
+2. IQMAL AIDID BIN ZAKARIA       (16)
+3. JALAL NAIM BIN MAT YAACOB     (164498)
+
 - [Description of The Game](#description-of-the-game)
 - [Features of The Game](#features-of-the-game)
 - [How to Play the Game](#how-to-play-the-game)

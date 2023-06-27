@@ -96,4 +96,4 @@ Inheritance: Inheritance can be used to create derived classes that inherit prop
 ### Screenshots of the Game ###
 
 ### A link to your game demo video ###
-[Creature Warfare Demo](https://www.youtube.com/)https://www.youtube.com/)
+[Creature Warfare Demo] (https://www.youtube.com/)

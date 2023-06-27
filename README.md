@@ -115,9 +115,11 @@ The game’s data is recorded into the .txt file at the end of a player’s turn
 
 ### Screenshots of the Game ###
 
+Main Menu of the game
+
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/137621915/e37dedfc-3248-4497-9730-224e442ad096)
 
-Main Menu of the game
+Creating new game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/383444f1-d67c-4f2e-b50f-2914b9ae320c)
 

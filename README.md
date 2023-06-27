@@ -61,7 +61,8 @@ With a variety of creatures, mini-game questions, and multiplayer dynamics, "Cre
 
 **8. Save/Load**
 
-Does an emergency occur during a game? You can ask the host to terminate the program at the beginning of the next player’s turn. The program will always save the game’s data at the end of every player’s turn and record it into a .txt file. This utilises each player’s linked list as the program traverses to input the data into the .txt file. 
+Does an emergency occur during a game? You can ask the host to terminate the program at the beginning of the next player’s turn by choosing the option **"Save and Exit Game"**. The program will always save the game’s data at the end of every player’s turn and record it into a .txt file. This utilises each player’s linked list as the program traverses to input the data into the .txt file. 
+*Note: The player whose turn is used to save and exit the game, data for that turn will not be recorded meaning that if a creature was summoned, it will not be saved. However, after loading the previous game, they will be able to summon a creature again as the game saved before their turn begins.*
 
 On the next run of the program, the host can choose to load the previous game’s data into the game. From the .txt file, each player’s creatures are appended into their linked list and other game data is reinitialised. Hence, players can continue playing from where they last left off.
 

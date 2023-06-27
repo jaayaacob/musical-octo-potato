@@ -59,6 +59,12 @@ When two opposing creatures are together inside a room, they enter a battle for 
 
 With a variety of creatures, mini-game questions, and multiplayer dynamics, "Creature Warfare" offers endless possibilities for gameplay. Each battle is a unique experience, and players can experiment with different strategies and play styles to gain an edge over their opponents.
 
+**8. Save/Load**
+
+Does an emergency occur during a game? You can ask the host to terminate the program at the beginning of the next player’s turn. The program will always save the game’s data at the end of every player’s turn and record it into a .txt file. This utilises each player’s linked list as the program traverses to input the data into the .txt file. 
+
+On the next run of the program, the host can choose to load the previous game’s data into the game. From the .txt file, each player’s creatures are appended into their linked list and other game data is reinitialised. Hence, players can continue playing from where they last left off.
+
 
 ### How to Play the Game ###
 

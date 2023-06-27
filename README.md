@@ -127,6 +127,9 @@ Mini game during the start of every player turn
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/12508e40-32e1-42d8-be4c-ec7c15bb0ce2)
 
+Adding new Creature to the list after winning the mini game
+
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2d8032be-a2da-4c25-ace5-63788603fe5a)
 
 
 ### Link to game demo video ###

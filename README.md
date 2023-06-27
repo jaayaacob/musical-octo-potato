@@ -47,7 +47,7 @@ Successfully answering the mini-game question grants players the ability to summ
 
 Each player has a base which serves as the spawn point of their creatures. This base is delegated to each player at the start of the game and remains as is for the entirety of the game. Once a creature moves outside of its base, it cannot return to its base and will have to proceed onward onto battle.
 
-**5. Creatures' Battles**
+**5. Creature Battles**
 
 When two opposing creatures are together inside a room, they enter a battle for elimination. The outcome of each battle between creatures is determined by a random number generator. This generator takes based on the creatures' strengths (attack value) such as a creature with attack value = 1 fighting against a creature with attack value = 5. Thus, the chance for the creature with 1 attack value to win the battle is 1/6. This element of chance adds an exciting and unpredictable aspect to the game, requiring players to balance their strategies with a bit of luck.
 

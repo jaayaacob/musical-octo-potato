@@ -86,11 +86,24 @@ With a variety of creatures, mini-game questions, and multiplayer dynamics, "Cre
 ### How Object-oriented Concepts Were Used to Develop the Game ###
 
 Classes: The game utilizes several classes, such as Player, CreatureList, and mainFunctions. These classes encapsulate related data and functions, allowing for modular and organized code.
+
 Encapsulation: The classes encapsulate data and behaviours within themselves, providing abstraction and separation of concerns. For example, the Player class encapsulates player-related information and functions.
+
 Polymorphism: Can be used to create different players or creatures that can be treated uniformly through base class pointers or references. Each player has their own set of unique creatures within their respective linked lists.
+
 Inheritance: Inheritance can be used to create derived classes that inherit properties and behaviours from base classes. This can be useful for creating specialized player types or creature types in the game. **However, we were unable to implement this as there was a shortage of time.**
 
+
 ### How linked lists play a role in the Game ###
+
+In "CreatureList.h", a class called CreatureList is defined, which represents a linked list of creatures. It contains private data members for the creature's ID, name, attack value, position, and a pointer to the next node within the struct CreatureNode, where a node represents a unique creature. 
+
+The class provides various member functions for manipulating the linked list, such as adding a new creature, deleting a creature, retrieving creature information, changing creature positions, and more. 
+
+The linked list is essential to the game as it dynamically allocates a sufficient amount of memory to represent a creature as a Node. Unlike arrays where it is required to allocate a certain amount of memory, the usage of a dynamic linked list prevents excessive memory allocation. It also prevents the cases where the size of the array is not enough to store all the creature data as the linked list is more flexible and can grow or shrink at any time.
+
+Most importantly, the linked list is essential for the process of saving the data of the game into a .txt file and using the .txt file to load the linked list with the previous game’s data on the next instance of the program. 
+The game’s data is recorded into the .txt file at the end of a player’s turn. If the player decides to terminate the program to continue at a later time, they can run the program once again and choose to load the previous game’s data through the linked list.
 
 
 ### Screenshots of the Game ###

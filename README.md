@@ -98,7 +98,7 @@ Encapsulation: The classes encapsulate data and behaviours within themselves, pr
 
 Polymorphism: Can be used to create different players or creatures that can be treated uniformly through base class pointers or references. Each player has their own set of unique creatures within their respective linked lists.
 
-Inheritance: Inheritance can be used to create derived classes that inherit properties and behaviours from base classes. This can be useful for creating specialized player types or creature types in the game. **However, we were unable to implement this as there was a shortage of time.**
+Inheritance: Inheritance can be used to create derived classes that inherit properties and behaviours from base classes. This can be useful for creating specialized player types or creature types in the game. **Unfortunately, we were unable to implement this in our program.**
 
 
 ### How linked lists play a role in the Game ###

@@ -124,13 +124,22 @@ Creating new game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/383444f1-d67c-4f2e-b50f-2914b9ae320c)
 
-Mini game during the start of every player turn
+Mini game during the start of every player's turn
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/12508e40-32e1-42d8-be4c-ec7c15bb0ce2)
 
-Adding new Creature to the list after winning the mini game
+Adding a new Creature to the list after winning the mini game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2d8032be-a2da-4c25-ace5-63788603fe5a)
+
+Move the Creature 
+
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/137621915/9e833dbd-b239-4927-b7d7-ceb571e98b50)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/137621915/f59bf585-aae4-4af7-b8a5-d99fcb5e344f)
+
+Battle Scene
+
+
 
 
 ### Link to game demo video ###

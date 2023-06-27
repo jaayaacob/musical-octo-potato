@@ -118,5 +118,5 @@ The game’s data is recorded into the .txt file at the end of a player’s turn
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/137621915/e37dedfc-3248-4497-9730-224e442ad096)
 
 
-### A link to your game demo video ###
+### Link to game demo video ###
 [Creature Warfare Demo] (https://www.youtube.com/)

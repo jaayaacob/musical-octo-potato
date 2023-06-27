@@ -92,7 +92,7 @@ On the next run of the program, the host can choose to load the previous game’
 
 ### How Object-oriented Concepts Were Used to Develop the Game ###
 
-Classes: The game utilizes several classes, such as Player, CreatureList, and mainFunctions. These classes encapsulate related data and functions, allowing for modular and organized code.
+Classes: The game utilizes several classes, such as Player and CreatureList. These classes encapsulate related data and functions, allowing for modular and organized code.
 
 Encapsulation: The classes encapsulate data and behaviours within themselves, providing abstraction and separation of concerns. For example, the Player class encapsulates player-related information and functions.
 

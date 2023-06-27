@@ -27,7 +27,7 @@ The ability to summon a creature and the creature's attack value is determined b
 
 The goal of the game is to have a creature remain inside the centre room for a specific duration, without it being eliminated by the other player's creatures during that period.
 
-**Creature Warfare** provides an immersive experience where players can test their knowledge, strategic thinking, and **insane luck** in epic creature battles. With its multiplayer nature and diverse range of creatures, the game offers endless possibilities for intense and engaging gameplay. So gather your friends, summon your creatures, and let the battles begin in this exciting combination of strategy and chance!
+**Creature Warfare** provides an immersive experience where players can test their knowledge, strategic thinking, and **luck** in epic creature battles. With its multiplayer nature and diverse range of creatures, the game offers endless possibilities for intense and engaging gameplay. So gather your friends, summon your creatures, and let the battles begin in this exciting combination of strategy and chance!
 
 ### Features of The Game ###
 

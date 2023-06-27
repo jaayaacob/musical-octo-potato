@@ -85,10 +85,15 @@ With a variety of creatures, mini-game questions, and multiplayer dynamics, "Cre
 
 ### How Object-oriented Concepts Were Used to Develop the Game ###
 
-
+Classes: The game utilizes several classes, such as Player, CreatureList, and mainFunctions. These classes encapsulate related data and functions, allowing for modular and organized code.
+Encapsulation: The classes encapsulate data and behaviours within themselves, providing abstraction and separation of concerns. For example, the Player class encapsulates player-related information and functions.
+Polymorphism: Can be used to create different players or creatures that can be treated uniformly through base class pointers or references. Each player has their own set of unique creatures within their respective linked lists.
+Inheritance: Inheritance can be used to create derived classes that inherit properties and behaviours from base classes. This can be useful for creating specialized player types or creature types in the game. **However, we were unable to implement this as there was a shortage of time.**
 
 ### How linked lists play a role in the Game ###
+
 
 ### Screenshots of the Game ###
 
 ### A link to your game demo video ###
+[Creature Warfare Demo](https://www.youtube.com/)https://www.youtube.com/)

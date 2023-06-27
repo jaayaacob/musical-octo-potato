@@ -123,6 +123,11 @@ Creating new game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/383444f1-d67c-4f2e-b50f-2914b9ae320c)
 
+Mini game during the start of every player turn
+
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/12508e40-32e1-42d8-be4c-ec7c15bb0ce2)
+
+
 
 ### Link to game demo video ###
 [Creature Warfare Demo] (https://www.youtube.com/)

@@ -138,7 +138,7 @@ Move the Creature
 
 Battle Scene
 
-
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/ff15e09a-3677-4c1a-9ac5-3b9369f3fff7)
 
 
 ### Link to game demo video ###

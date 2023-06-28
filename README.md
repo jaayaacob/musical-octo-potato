@@ -118,31 +118,31 @@ The game’s data is recorded into the .txt file at the end of a player’s turn
 
 - Main Menu of the game
 
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/137621915/e37dedfc-3248-4497-9730-224e442ad096)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/57a56b90-6b42-4508-8273-29497485b56b)
 
 - Creating new game
 
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/383444f1-d67c-4f2e-b50f-2914b9ae320c)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/03c81d5c-bad1-414b-a6a1-e9c1c297df57)
 
 - Mini game during the start of every player's turn
 
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/12508e40-32e1-42d8-be4c-ec7c15bb0ce2)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/a901931b-26bc-44a2-ad47-3dd5c9fa84fb)
 
 - Adding a new Creature to the list after winning the mini game
 
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2d8032be-a2da-4c25-ace5-63788603fe5a)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/6178c28b-90f1-41d7-a18b-074e6fc1ce91)
 
 - Move the Creature 
 
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/f3ece8f6-e27f-4ecc-9e9c-7c0fcc3aefed)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/4682f3d3-5a0e-40a1-87e9-2dc2134d81d8)
 
 - Battle Scene
 
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/ff15e09a-3677-4c1a-9ac5-3b9369f3fff7)
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/43f96cca-5568-458f-a83d-1d966d10efe9)
 
 - Game winner announcement
-
-![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2daaacf6-600b-417f-80a9-6e63ed966dc5)
+- 
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/7ea3c1be-f58a-4119-b29d-cf6da0c65a73)
 
 ### Link to game demo video ###
 [Please Click This!](https://youtu.be/CQP9GwiKqwk)

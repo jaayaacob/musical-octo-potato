@@ -116,31 +116,31 @@ The game’s data is recorded into the .txt file at the end of a player’s turn
 
 ### Screenshots of the Game ###
 
-Main Menu of the game
+- Main Menu of the game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/137621915/e37dedfc-3248-4497-9730-224e442ad096)
 
-Creating new game
+- Creating new game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/383444f1-d67c-4f2e-b50f-2914b9ae320c)
 
-Mini game during the start of every player's turn
+- Mini game during the start of every player's turn
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/12508e40-32e1-42d8-be4c-ec7c15bb0ce2)
 
-Adding a new Creature to the list after winning the mini game
+- Adding a new Creature to the list after winning the mini game
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2d8032be-a2da-4c25-ace5-63788603fe5a)
 
-Move the Creature 
+- Move the Creature 
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/f3ece8f6-e27f-4ecc-9e9c-7c0fcc3aefed)
 
-Battle Scene
+- Battle Scene
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/ff15e09a-3677-4c1a-9ac5-3b9369f3fff7)
 
-Game winner announcement
+- Game winner announcement
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2daaacf6-600b-417f-80a9-6e63ed966dc5)
 

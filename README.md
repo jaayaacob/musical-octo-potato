@@ -140,6 +140,9 @@ Battle Scene
 
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/ff15e09a-3677-4c1a-9ac5-3b9369f3fff7)
 
+Game winner announcement
+
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/2daaacf6-600b-417f-80a9-6e63ed966dc5)
 
 ### Link to game demo video ###
 [Creature Warfare Demo] (https://www.youtube.com/)

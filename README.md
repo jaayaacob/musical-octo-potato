@@ -141,7 +141,7 @@ The game’s data is recorded into the .txt file at the end of a player’s turn
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/43f96cca-5568-458f-a83d-1d966d10efe9)
 
 - Game winner announcement
-- 
+  
 ![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/7ea3c1be-f58a-4119-b29d-cf6da0c65a73)
 
 ### Link to game demo video ###

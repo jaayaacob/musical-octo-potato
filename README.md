@@ -134,7 +134,7 @@ Adding a new Creature to the list after winning the mini game
 
 Move the Creature 
 
-
+![image](https://github.com/jaayaacob/musical-octo-potato/assets/121543534/f3ece8f6-e27f-4ecc-9e9c-7c0fcc3aefed)
 
 Battle Scene
 

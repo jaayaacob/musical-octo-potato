@@ -12,7 +12,7 @@
 - [How Object-oriented Concepts were Used to Develop the Game](#how-object-oriented-concepts-were-used-to-develop-the-game)
 - [How linked lists play a role in the Game](#how-linked-lists-play-a-role-in-the-game)
 - [Screenshots of the Game](#screenshots-of-the-game)
-- [A link to your game demo video](#a-link-to-your-game-demo-video)
+- [A link to game demo video](#a-link-to-game-demo-video)
 
 
 
